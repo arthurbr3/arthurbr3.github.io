@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<p>Curso de aplicaciones HTML modernas<br />
+ARTURO BARBOSA RAMOS<br />
+26 DE AGOSTO DEL 2016</p>
+<h1 id="presentación">Presentación</h1>
+<p>-HTML Y DOM -NodeJS y Chrome -jQuery</p>
+<h1 id="instalacion-de-node">INSTALACION DE NODE</h1>
+<ul>
+<li>Descargar node desde nodejs.org<br />
+</li>
+<li>Instalamos la versión estable<br />
+```</li>
+</ul>
+<p>npm install query<br />
+npm install bootstrap<br />
+npm install http-server</p>
+<p>```</p>
+</body>
+</html>

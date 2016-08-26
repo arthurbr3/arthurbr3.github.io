@@ -1,0 +1,24 @@
+Manual de HTML
+ARTURO BARBOSA RAMOS
+ 26 DE AGOSTO DEL 2016
+
+
+Presentación
+============
+
+Este manual contiene el material del curso de **aplicaciones modernas de HTML**los temas analizados fueron:
+1.HTML Y DOM
+2.Librerias JavaScript
+	*nodejs
+	*jquery
+	*jade
+	*pandoc
+
+
+
+
+
+
+
+
+
